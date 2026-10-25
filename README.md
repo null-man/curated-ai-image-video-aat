@@ -103,6 +103,9 @@ Tools for generating videos from text, images, or other inputs using AI.
 | **[Alors On Danse Video Maker](https://alorsondansevideo.com)** | Independent text/image-to-video via Grok Imagine API (not affiliated with xAI or X); Paid. | Free trial | [Site](https://alorsondansevideo.com) |
 | **[Bad Times AI](https://badtimesai.dev)** | Independent text/image-to-video via Grok Imagine API (not affiliated with xAI or X); Paid. | Free trial | [Site](https://badtimesai.dev) |
 | **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** | Independent text/image-to-video via Grok Imagine API (not affiliated with xAI or X); Paid. | Free trial | [Site](https://ifoundyouinthecrowdai.com) |
+| **[KDA Firestarter AI Dance](https://kdafirestarterai.dev)** | Independent text/image-to-video via Grok Imagine API (not affiliated with xAI or X); Paid. | Free trial | [Site](https://kdafirestarterai.dev) |
+| **[A2O LITE NEON AI Dance](https://a2oliteai.org)** | Independent text/image-to-video via Grok Imagine API (not affiliated with xAI or X); Paid. | Free trial | [Site](https://a2oliteai.org) |
+| **[dime dime baby ai](https://dimedimebabyai.dev)** | Independent text/image-to-video via Grok Imagine API (not affiliated with xAI or X); Paid. | Free trial | [Site](https://dimedimebabyai.dev) |
 | **[Luma Dream Machine](https://lumalabs.ai/dream-machine)** | Fast, high-quality video generation from text and images with realistic physics and motion. | Free tier + paid plans | [API](https://docs.lumalabs.ai/) |
 | **[Vidu](https://www.vidu.studio)** | AI video generation platform by Shengshu Technology, known for consistent character generation and multi-scene composition. | Free tier available | [Website](https://www.vidu.studio) |
 | **[Hailuo AI (MiniMax)](https://hailuoai.video)** | MiniMax's video generation model with strong motion quality and text adherence for short-form video content. | Free tier available | [Website](https://hailuoai.video) |
